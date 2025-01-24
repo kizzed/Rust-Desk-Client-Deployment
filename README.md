@@ -48,8 +48,3 @@ Your feedback is invaluable! If you encounter issues or have suggestions for imp
 2. Submit a pull request with your proposed changes.
 
 ---
-
-## **📜 License**
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the script as needed.
-
----
